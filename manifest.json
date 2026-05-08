@@ -1,0 +1,22 @@
+{
+  "name": "StudyGram Pro",
+  "short_name": "StudyGram",
+  "description": "Premium 12th Science Study App by @dark_eio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0c10",
+  "theme_color": "#0b0c10",
+  "gcm_sender_id": "103953800507",
+  "icons":[
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3074/3074058.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3074/3074058.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
